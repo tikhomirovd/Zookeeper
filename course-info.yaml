@@ -1,0 +1,10 @@
+type: hyperskill
+title: Zookeeper
+language: English
+summary: This short code challenge can help to look after zoo denizens. You will create
+  an instrument for watching animals to keep in touch about their state.<br/><br/>Learn
+  more at <a href="https://hyperskill.org">https://hyperskill.org/projects/98</a>
+programming_language: Python
+content:
+- Zookeeper
+mode: Study
